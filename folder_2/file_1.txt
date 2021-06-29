@@ -1,0 +1,4 @@
+My name is Andrei.
+I am 35
+I am a miller operator.
+I want to be QA
